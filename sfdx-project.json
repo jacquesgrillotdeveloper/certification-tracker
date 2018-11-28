@@ -1,11 +1,18 @@
 {
-  "packageDirectories": [
-    {
-      "path": "certtracker",
-      "default": true
+    "packageDirectories": [
+        {
+            "path": "certtracker",
+            "default": true,
+            "package": "certification-tracker",
+            "versionName": "Beta Winter '19",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "certification-tracker": "0Ho460000004CDtCAM",
+        "certification-tracker@1.0.0-1": "04t460000027gCNAAY"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "44.0"
 }
