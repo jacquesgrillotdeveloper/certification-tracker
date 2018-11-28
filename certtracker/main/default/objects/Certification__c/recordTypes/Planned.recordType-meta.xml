@@ -2,6 +2,7 @@
 <RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Planned</fullName>
     <active>true</active>
+    <compactLayoutAssignment>Certification_Draft</compactLayoutAssignment>
     <description>Certification is being planned</description>
     <label>Planned</label>
     <picklistValues>
